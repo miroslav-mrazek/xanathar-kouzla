@@ -544,7 +544,7 @@ Sešleš-li toto kouzlo několikrát, můžeš mít až dva jeho neokamžité ú
 #### Závan
 *Transmutační trik* 
 ___
-- **Vyvolání:** 1 bonusová akce
+- **Vyvolání:** 1 akce
 - **Dosah:** 6 sáhů
 - **Složky:** V, S
 - **Trvání:** Ihned
