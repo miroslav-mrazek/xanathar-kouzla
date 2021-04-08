@@ -54,12 +54,12 @@ Následující seznam ukazuje, která kouzla jsou dostupná postavám s daným p
 
 - Omrzliny (zaklínání)
 - Ovládni plameny (transmutace)
+- Poryv větru (transmutace)
 - Stvoř táborák (vyvolávání)
 - Tvaruj vodu (transmutace)
 - Tvaruj zemi (transmutace)
 - Zahřmění (zaklínání)
 - Zamoření (vyvolávání)
-- Závan (transmutace)
 
 ##### 1. úroveň
 - Chaotický blesk (zaklínání)
@@ -193,12 +193,12 @@ Následující seznam ukazuje, která kouzla jsou dostupná postavám s daným p
 - Kouzelný oblázek (transmutace)
 - Omrzliny (zaklínání)
 - Ovládni plameny (transmutace)
+- Poryv větru (transmutace)
 - Stvoř táborák (vyvolávání)
 - Tvaruj vodu (transmutace)
 - Tvaruj zemi (transmutace)
 - Zahřmění (zaklínání)
 - Zamoření (vyvolávání)
-- Závan (transmutace)
 
 ##### 1. úroveň
 - Ledový nůž (vyvolávání)
@@ -305,12 +305,12 @@ Následující seznam ukazuje, která kouzla jsou dostupná postavám s daným p
 - Hlas umíráčku (nekromancie)
 - Omrzliny (zaklínání)
 - Ovládni plameny (transmutace)
+- Poryv větru (transmutace)
 - Stvoř táborák (vyvolávání)
 - Tvaruj vodu (transmutace)
 - Tvaruj zemi (transmutace)
 - Zahřmění (zaklínání)
 - Zamoření (vyvolávání)
-- Závan (transmutace)
 
 ##### 1. úroveň
 - Katapult (transmutace)
@@ -476,6 +476,21 @@ Způsobíš, že se na tvorovi, kterého vidíš v dosahu, začnou tvořit otupu
 Zranění kouzla se zvýší o 1k6, když dosáhneš 5. úrovně (2k6) a pak znovu na 11. (3k6) a 17. úrovni (4k6).
 
 
+#### Poryv větru
+*Transmutační trik* 
+___
+- **Vyvolání:** 1 akce
+- **Dosah:** 6 sáhů
+- **Složky:** V, S
+- **Trvání:** Ihned
+- **Povolání:** Čaroděj, druid, kouzelník
+___
+Zmocníš se větru a vnutíš mu svou vůli. Na místě v dosahu, které vidíš, způsobíš jeden z následujících účinků:
+ * Střední nebo menší tvor, kterého zvolíš, musí uspět v záchranném hodu na Sílu, jinak bude odtlačen 1 sáh od tebe.
+ * Odfoukneš zvolený předmět vážící 5 liber nebo méně. Předmět je odtlačen 2 sáhy od tebe. Předmět není odtlačen natolik silně, aby způsobil jakékoliv zranění.
+ * Necháš vítr způsobit neškodný smyslový účinek jako šumění listí, zabouchnutí okenic, nebo povlávání tvého pláště v mírném vánku.
+
+
 #### Slovo světla
 *Zaklínací trik* 
 ___
@@ -539,21 +554,6 @@ Vybereš si objem vody, který vidíš v dosahu a který se vejde do krychle o h
  * Zmrazíš vodu, ale pouze za předpokladu, že se v ní nenachází žádný tvor. Voda rozmrzne za 1 hodinu.
 
 Sešleš-li toto kouzlo několikrát, můžeš mít až dva jeho neokamžité účinky současně, a takový účinek můžeš zrušit jako akci.
-
-
-#### Závan
-*Transmutační trik* 
-___
-- **Vyvolání:** 1 akce
-- **Dosah:** 6 sáhů
-- **Složky:** V, S
-- **Trvání:** Ihned
-- **Povolání:** Čaroděj, druid, kouzelník
-___
-Zmocníš se větru a vnutíš mu svou vůli. Na místě v dosahu, které vidíš, způsobíš jeden z následujících účinků:
- * Střední nebo menší tvor, kterého zvolíš, musí uspět v záchranném hodu na Sílu, jinak bude odtlačen 1 sáh od tebe.
- * Odfoukneš zvolený předmět vážící 5 liber nebo méně. Předmět je odtlačen 2 sáhy od tebe. Předmět není odtlačen natolik silně, aby způsobil jakékoliv zranění.
- * Necháš vítr způsobit neškodný smyslový účinek jako šumění listí, zabouchnutí okenic, nebo povlávání tvého pláště v mírném vánku.
 
 
 #### Zamoření
